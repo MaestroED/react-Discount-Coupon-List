@@ -1,0 +1,84 @@
+[{
+    "brand" : "Trendyol",
+    "brandImg" : "https://cdn.dsmcdn.com/web/logo/ty-logo.svg",
+    "couponCode" : "12345",
+    "description" : "%25 Discount",
+    "link" : "trendyol.com",
+    "id" : 1
+    
+  
+    
+  },
+{
+  "brand" : "Sportive",
+  "brandImg" : "https://cdn.picodi.com/tr/shop/thumb_150/sportive-com-tr_1042_001.png",
+  "couponCode" : "123456",
+  "description" : "%30 Discount",
+  "link" : "Sportive.com",
+  "id" : 2
+}
+,
+{
+  "brand" : "Mavi",
+  "brandImg" : "https://cdn.picodi.com/tr/shop/thumb_150/mavi_1082_001.png",
+  "couponCode" : "1234567",
+  "description" : "%15 Discount",
+  "link" : "Mavi.com",
+  "id" : 3
+}
+,
+{
+  "brand" : "Koton",
+  "brandImg" : "https://cdn.picodi.com/tr/shop/thumb_200/koton_1515_001.png",
+  "couponCode" : "12345678",
+  "description" : "%65 Discount",
+  "link" : "Koton.com",
+  "id" : 4
+}
+,
+{
+  "brand" : "Engoo",
+  "brandImg" : "https://cdn.picodi.com/tr/shop/thumb_150/engoo_2598_001_1.png",
+  "couponCode" : "123456789",
+  "description" : "%35 Discount",
+  "link" : "Engoo.com",
+  "id" : 5
+}
+,
+{
+  "brand" : "Pierre Cardin",
+  "brandImg" : "https://cdn.picodi.com/tr/shop/thumb_150/pierrecardin_1216_001.png",
+  "couponCode" : "1234567890",
+  "description" : "%40 Discount",
+  "link" : "PierreCardin.com",
+  "id" : 6
+}
+,
+{
+  "brand" : "Godaddy",
+  "brandImg" : "https://cdn.picodi.com/tr/shop/thumb_150/godaddy_1300_001_2.png",
+  "couponCode" : "12345678901",
+  "description" : "%80 Discount",
+  "link" : "Godaddy.com",
+  "id" : 7
+}
+,
+{
+  "brand" : "Udemy",
+  "brandImg" : "https://cdn.picodi.com/tr/shop/thumb_150/udemy_2395_001_2.png",
+  "couponCode" : "123456789012",
+  "description" : "%15 Discount",
+  "link" : "Udemy.com",
+  "id" : 8
+}
+,
+{
+  "brand" : "Arzum",
+  "brandImg" : "https://cdn.picodi.com/tr/shop/thumb_150/arzum_911_001_3.png",
+  "couponCode" : "12345678901234",
+  "description" : "%20 Discount",
+  "link" : "Arzum.com",
+  "id" : 9
+}
+  
+]
